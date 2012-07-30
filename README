@@ -1,0 +1,17 @@
+Xcode project to create a fat binary libFLAC framework for use in iOS apps. 
+
+The source for libFLAC can be found here: 
+
+http://flac.sourceforge.net/
+
+If you are curious how to create your own frameworks for iOS apps check here: 
+
+https://github.com/jverkoey/iOS-Framework
+
+To build:
+
+1. Select the Framework target
+2. Build for Debug or Release
+3. Find FLACiOS.framework in ~/Library/Developer/Xcode/DerivedData/FLACiOS-<some_hash>/Build/Products/Debug-iphonesimulator/
+4. Include the folder as a Framework in your other Xcode iOS projects
+

@@ -1,0 +1,8 @@
+build/
+FLACiOS.xcodeproj/project.xcworkspace/xcuserdata/*
+FLACiOS.xcodeproj/xcuserdata/jleehurt.xcuserdatad/*
+FLACiOS.xcodeproj/project.xcworkspace/xcuserdata/
+FLACiOS.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+**/*.pbxuser
+.DS_Store
+
