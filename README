@@ -9,9 +9,9 @@ If you are curious how to create your own frameworks for iOS apps check here:
 https://github.com/jverkoey/iOS-Framework
 
 To build:
-
-1. Select the Framework target
-2. Build for Debug or Release
-3. Find FLACiOS.framework in ~/Library/Developer/Xcode/DerivedData/FLACiOS-<some_hash>/Build/Products/Debug-iphonesimulator/
-4. Include the folder as a Framework in your other Xcode iOS projects
+1. install libogg: http://xiph.org/downloads/
+2. Select the Framework target
+3. Build for Debug or Release
+4. Find FLACiOS.framework in ~/Library/Developer/Xcode/DerivedData/FLACiOS-<some_hash>/Build/Products/Debug-iphonesimulator/
+5. Include the folder as a Framework in your other Xcode iOS projects
 
