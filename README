@@ -15,3 +15,5 @@ To build:
 4. Find FLACiOS.framework in ~/Library/Developer/Xcode/DerivedData/FLACiOS-<some_hash>/Build/Products/Debug-iphonesimulator/
 5. Include the folder as a Framework in your other Xcode iOS projects
 
+*Note: a lot of people have had trouble building due to missing the ogg headers. 
+You can checkout the no-ogg branch to build without ogg support if you don't need it in your project.
