@@ -52,10 +52,6 @@
 		FE271EC415C7072A00B29E74 /* md5.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E2E15C7072A00B29E74 /* md5.h */; };
 		FE271EC515C7072A00B29E74 /* memory.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E2F15C7072A00B29E74 /* memory.h */; };
 		FE271EC615C7072A00B29E74 /* metadata.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E3015C7072A00B29E74 /* metadata.h */; };
-		FE271EC715C7072A00B29E74 /* ogg_decoder_aspect.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E3115C7072A00B29E74 /* ogg_decoder_aspect.h */; };
-		FE271EC815C7072A00B29E74 /* ogg_encoder_aspect.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E3215C7072A00B29E74 /* ogg_encoder_aspect.h */; };
-		FE271EC915C7072A00B29E74 /* ogg_helper.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E3315C7072A00B29E74 /* ogg_helper.h */; };
-		FE271ECA15C7072A00B29E74 /* ogg_mapping.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E3415C7072A00B29E74 /* ogg_mapping.h */; };
 		FE271ECB15C7072A00B29E74 /* stream_encoder_framing.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E3515C7072A00B29E74 /* stream_encoder_framing.h */; };
 		FE271ECC15C7072A00B29E74 /* window.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E3615C7072A00B29E74 /* window.h */; };
 		FE271ECD15C7072A00B29E74 /* all.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E3815C7072A00B29E74 /* all.h */; };
@@ -103,10 +99,6 @@
 		FE271EFD15C7072A00B29E74 /* memory.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E7015C7072A00B29E74 /* memory.c */; };
 		FE271EFE15C7072A00B29E74 /* metadata_iterators.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E7115C7072A00B29E74 /* metadata_iterators.c */; };
 		FE271EFF15C7072A00B29E74 /* metadata_object.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E7215C7072A00B29E74 /* metadata_object.c */; };
-		FE271F0015C7072A00B29E74 /* ogg_decoder_aspect.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E7315C7072A00B29E74 /* ogg_decoder_aspect.c */; };
-		FE271F0115C7072A00B29E74 /* ogg_encoder_aspect.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E7415C7072A00B29E74 /* ogg_encoder_aspect.c */; };
-		FE271F0215C7072A00B29E74 /* ogg_helper.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E7515C7072A00B29E74 /* ogg_helper.c */; };
-		FE271F0315C7072A00B29E74 /* ogg_mapping.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E7615C7072A00B29E74 /* ogg_mapping.c */; };
 		FE271F0415C7072A00B29E74 /* stream_decoder.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E7715C7072A00B29E74 /* stream_decoder.c */; };
 		FE271F0515C7072A00B29E74 /* stream_encoder.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E7815C7072A00B29E74 /* stream_encoder.c */; };
 		FE271F0615C7072A00B29E74 /* stream_encoder_framing.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E7915C7072A00B29E74 /* stream_encoder_framing.c */; };
@@ -192,10 +184,6 @@
 		FE271E2E15C7072A00B29E74 /* md5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = md5.h; sourceTree = "<group>"; };
 		FE271E2F15C7072A00B29E74 /* memory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = memory.h; sourceTree = "<group>"; };
 		FE271E3015C7072A00B29E74 /* metadata.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = metadata.h; sourceTree = "<group>"; };
-		FE271E3115C7072A00B29E74 /* ogg_decoder_aspect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ogg_decoder_aspect.h; sourceTree = "<group>"; };
-		FE271E3215C7072A00B29E74 /* ogg_encoder_aspect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ogg_encoder_aspect.h; sourceTree = "<group>"; };
-		FE271E3315C7072A00B29E74 /* ogg_helper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ogg_helper.h; sourceTree = "<group>"; };
-		FE271E3415C7072A00B29E74 /* ogg_mapping.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ogg_mapping.h; sourceTree = "<group>"; };
 		FE271E3515C7072A00B29E74 /* stream_encoder_framing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = stream_encoder_framing.h; sourceTree = "<group>"; };
 		FE271E3615C7072A00B29E74 /* window.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = window.h; sourceTree = "<group>"; };
 		FE271E3815C7072A00B29E74 /* all.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = all.h; sourceTree = "<group>"; };
@@ -244,10 +232,6 @@
 		FE271E7015C7072A00B29E74 /* memory.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = memory.c; sourceTree = "<group>"; };
 		FE271E7115C7072A00B29E74 /* metadata_iterators.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = metadata_iterators.c; sourceTree = "<group>"; };
 		FE271E7215C7072A00B29E74 /* metadata_object.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = metadata_object.c; sourceTree = "<group>"; };
-		FE271E7315C7072A00B29E74 /* ogg_decoder_aspect.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ogg_decoder_aspect.c; sourceTree = "<group>"; };
-		FE271E7415C7072A00B29E74 /* ogg_encoder_aspect.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ogg_encoder_aspect.c; sourceTree = "<group>"; };
-		FE271E7515C7072A00B29E74 /* ogg_helper.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ogg_helper.c; sourceTree = "<group>"; };
-		FE271E7615C7072A00B29E74 /* ogg_mapping.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ogg_mapping.c; sourceTree = "<group>"; };
 		FE271E7715C7072A00B29E74 /* stream_decoder.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = stream_decoder.c; sourceTree = "<group>"; };
 		FE271E7815C7072A00B29E74 /* stream_encoder.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = stream_encoder.c; sourceTree = "<group>"; };
 		FE271E7915C7072A00B29E74 /* stream_encoder_framing.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = stream_encoder_framing.c; sourceTree = "<group>"; };
@@ -415,10 +399,6 @@
 				FE271E2E15C7072A00B29E74 /* md5.h */,
 				FE271E2F15C7072A00B29E74 /* memory.h */,
 				FE271E3015C7072A00B29E74 /* metadata.h */,
-				FE271E3115C7072A00B29E74 /* ogg_decoder_aspect.h */,
-				FE271E3215C7072A00B29E74 /* ogg_encoder_aspect.h */,
-				FE271E3315C7072A00B29E74 /* ogg_helper.h */,
-				FE271E3415C7072A00B29E74 /* ogg_mapping.h */,
 				FE271E3515C7072A00B29E74 /* stream_encoder_framing.h */,
 				FE271E3615C7072A00B29E74 /* window.h */,
 			);
@@ -522,10 +502,6 @@
 				FE271E7015C7072A00B29E74 /* memory.c */,
 				FE271E7115C7072A00B29E74 /* metadata_iterators.c */,
 				FE271E7215C7072A00B29E74 /* metadata_object.c */,
-				FE271E7315C7072A00B29E74 /* ogg_decoder_aspect.c */,
-				FE271E7415C7072A00B29E74 /* ogg_encoder_aspect.c */,
-				FE271E7515C7072A00B29E74 /* ogg_helper.c */,
-				FE271E7615C7072A00B29E74 /* ogg_mapping.c */,
 				FE271E7715C7072A00B29E74 /* stream_decoder.c */,
 				FE271E7815C7072A00B29E74 /* stream_encoder.c */,
 				FE271E7915C7072A00B29E74 /* stream_encoder_framing.c */,
@@ -684,10 +660,6 @@
 				FE271EC415C7072A00B29E74 /* md5.h in Headers */,
 				FE271EC515C7072A00B29E74 /* memory.h in Headers */,
 				FE271EC615C7072A00B29E74 /* metadata.h in Headers */,
-				FE271EC715C7072A00B29E74 /* ogg_decoder_aspect.h in Headers */,
-				FE271EC815C7072A00B29E74 /* ogg_encoder_aspect.h in Headers */,
-				FE271EC915C7072A00B29E74 /* ogg_helper.h in Headers */,
-				FE271ECA15C7072A00B29E74 /* ogg_mapping.h in Headers */,
 				FE271ECB15C7072A00B29E74 /* stream_encoder_framing.h in Headers */,
 				FE271ECC15C7072A00B29E74 /* window.h in Headers */,
 				FE271ECD15C7072A00B29E74 /* all.h in Headers */,
@@ -830,10 +802,6 @@
 				FE271EFD15C7072A00B29E74 /* memory.c in Sources */,
 				FE271EFE15C7072A00B29E74 /* metadata_iterators.c in Sources */,
 				FE271EFF15C7072A00B29E74 /* metadata_object.c in Sources */,
-				FE271F0015C7072A00B29E74 /* ogg_decoder_aspect.c in Sources */,
-				FE271F0115C7072A00B29E74 /* ogg_encoder_aspect.c in Sources */,
-				FE271F0215C7072A00B29E74 /* ogg_helper.c in Sources */,
-				FE271F0315C7072A00B29E74 /* ogg_mapping.c in Sources */,
 				FE271F0415C7072A00B29E74 /* stream_decoder.c in Sources */,
 				FE271F0515C7072A00B29E74 /* stream_encoder.c in Sources */,
 				FE271F0615C7072A00B29E74 /* stream_encoder_framing.c in Sources */,
@@ -993,6 +961,7 @@
 				FE271E0F15C706CB00B29E74 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FE271F2D15C709DA00B29E74 /* Build configuration list for PBXAggregateTarget "Framework" */ = {
 			isa = XCConfigurationList;
@@ -1001,6 +970,7 @@
 				FE271F2F15C709DA00B29E74 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
