@@ -133,7 +133,6 @@
 		FE271F2315C7072A00B29E74 /* charmaps.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271EA315C7072A00B29E74 /* charmaps.h */; };
 		FE271F2415C7072A00B29E74 /* charset.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271EA415C7072A00B29E74 /* charset.c */; };
 		FE271F2515C7072A00B29E74 /* charset.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271EA515C7072A00B29E74 /* charset.h */; };
-		FE271F2615C7072A00B29E74 /* charset_test.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271EA615C7072A00B29E74 /* charset_test.c */; };
 		FE271F2715C7072A00B29E74 /* charsetmap.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271EA715C7072A00B29E74 /* charsetmap.h */; };
 		FE271F2815C7072A00B29E74 /* iconvert.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271EA815C7072A00B29E74 /* iconvert.c */; };
 		FE271F2915C7072A00B29E74 /* iconvert.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271EA915C7072A00B29E74 /* iconvert.h */; };
@@ -829,7 +828,6 @@
 				FE271F2115C7072A00B29E74 /* replaygain_analysis.c in Sources */,
 				FE271F2215C7072A00B29E74 /* replaygain_synthesis.c in Sources */,
 				FE271F2415C7072A00B29E74 /* charset.c in Sources */,
-				FE271F2615C7072A00B29E74 /* charset_test.c in Sources */,
 				FE271F2815C7072A00B29E74 /* iconvert.c in Sources */,
 				FE271F2A15C7072A00B29E74 /* utf8.c in Sources */,
 			);
