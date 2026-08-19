@@ -1,11 +1,13 @@
 # FLACiOS
-Xcode project to create a fat binary libFLAC framework for use in iOS apps.
+Xcode project to create a libFLAC XCFramework for use in iOS apps.
+
+## Build XCFramework
+```sh
+./build_xcframework.zsh
+```
 
 ## Usage
-* Select the Framework target
-* Build for Debug or Release
-* Find FLACiOS.framework in ~/Library/Developer/Xcode/DerivedData/FLACiOS-<some_hash>/Build/Products/Debug-iphonesimulator/
-* Include the folder as a Framework in your other Xcode iOS projects
+- Drag and drop `FLACiOS.xcframework` to your project.
 
 ## Original libFLAC source
 

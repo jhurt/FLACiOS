@@ -6,3 +6,4 @@ FLACiOS.xcodeproj/project.xcworkspace/contents.xcworkspacedata
 **/*.pbxuser
 .DS_Store
 xcuserdata
+FLACiOS.xcframework
